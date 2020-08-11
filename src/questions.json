@@ -1,0 +1,44 @@
+[
+    {
+        "question": "En qué lugar se ejecuta generalmente el códgo JavaScript?",
+        "optionA": "Cliente (Navegador)",
+        "optionB": "Servidor",
+        "optionC": "Nube",
+        "optionD": "Terminal",
+        "answer": "Cliente (Navegador)"
+    },
+
+    {
+        "question": "¿Qué instrucción es correcta para hacer comentarios en javascript?",
+        "optionA": "ctrl + Ç",
+        "optionB": "//",
+        "optionC": "<!-- -->",
+        "optionD": "/*",
+        "answer": "//"
+    },
+
+    {
+        "question": "Como declaro una variable",
+        "optionA": "var",
+        "optionB": "lot",
+        "optionC": "variable",
+        "optionD": "cons",
+        "answer": "var"
+    },
+    {
+        "question": "Por qué el codigo de Javascript es colocado justo antes de la etiqueta body de cierre",
+        "optionA": "Para cumplir con los estandar",
+        "optionB": "Para permitir que la página web cargue completamente en la ventada del navegador",
+        "optionC": "Es la única manera posible",
+        "optionD": "Por que asi es mas rapido",
+        "answer": "Para permitir que la página web cargue completamente en la ventada del navegador"
+    },
+    {
+        "question": "Cual es el resultado de la expresión var1&&var2, si var1=verdadedo y var2=falso",
+        "optionA": "true",
+        "optionB": "false",
+        "optionC": "undefined",
+        "optionD": "null",
+        "answer": "false"
+    }
+]
